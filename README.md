@@ -4,7 +4,7 @@ Standalone executable for switching between different versions of Ruby in Window
 
 
 
-# Not pretty, but functional. 
+# It's functional!
 
 
 You will have to install different versions of Ruby yourself and keep them in "C:\rubies". I hope to change this in a future update so that the program is capable of installing Ruby versions. Make sure that you remove any Ruby folders that are already listed in PATH after running the program for the first time.
